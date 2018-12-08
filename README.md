@@ -1,2 +1,3 @@
 # learngit
-I'm a new learner.
+This is where I practise git commands.
+So nothing valuable in here.
